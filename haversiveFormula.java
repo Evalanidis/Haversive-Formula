@@ -2,6 +2,7 @@
 * @author Valanidis Efstathios
 * @literal evalanidis@gmail.com
 * @since 24/10/2017
+* @see https://en.wikipedia.org/wiki/Haversine_formula
 * */
 
 static double earthRadius = 6371.0;
